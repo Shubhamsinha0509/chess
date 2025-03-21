@@ -1,4 +1,4 @@
-# ♟️ Chess App  
+# ♟️ Chess  
 
 A real-time **multiplayer chess game** built with **React, Node.js, TypeScript, and WebSockets**.  
 Play with friends online with smooth and instant move updates.  
