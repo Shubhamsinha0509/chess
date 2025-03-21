@@ -1,28 +1,31 @@
-A real-time multiplayer chess game built with React, Node.js, TypeScript, and WebSockets. Play with friends online with smooth and instant move updates.
+# ♟️ Chess App  
 
-🚀 Features
-✅ Real-time Multiplayer – Challenge friends in live games.
-✅ WebSocket-Powered – Instant move updates with a dedicated WebSocket server.
-✅ Move Validation – Ensures only legal moves are played.
-✅ Modern UI – Built with React for a seamless experience.
+A real-time **multiplayer chess game** built with **React, Node.js, TypeScript, and WebSockets**.  
+Play with friends online with smooth and instant move updates.  
 
+## 🚀 Features  
+✅ **Real-time Multiplayer** – Challenge friends in live games.  
+✅ **WebSocket-Powered** – Instant move updates with a dedicated WebSocket server.  
+✅ **Move Validation** – Ensures only legal moves are played.  
+✅ **Modern UI** – Built with **React** for a seamless experience.  
 
-Installation & Setup 
+## 🏗️ Installation & Setup  
 
- 1️⃣ Clone the Repository
- git clone https://github.com/your-username/chess.git
- cd chess
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/your-username/chess.git
+cd chess
 
- 2️⃣ Install Dependencies
- Frontend Setup
- 
- cd frontend
- npm install
- npm run dev  # Starts the frontend
+2️⃣ Install Dependencies
+FRONTEND SETUP
 
- Backend Setup
+cd frontend
+npm install
+npm run dev # starts the frontend
 
- cd backend
- npm install
- tsc -b  # Compiles TypeScript to JavaScript
- node dist/index.js  # Starts the backend server
+BACKEND SETUP
+
+cd backend
+npm install
+tsc -b # compiles Typescript to Javascript
+node dist/index.js  # starts the backend server
